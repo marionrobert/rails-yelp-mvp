@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+.nav-item a {
+  text-decoration: none;
+  color: rgb(240, 240, 240);
+  margin: 2%;
+}
