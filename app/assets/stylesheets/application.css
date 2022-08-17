@@ -13,8 +13,12 @@
  *= require_tree .
  *= require_self
  */
-.nav-item a {
+.navbar a {
   text-decoration: none;
   color: rgb(240, 240, 240);
-  margin: 2%;
+  margin-right: 3%;
+}
+
+.navbar .container {
+  justify-content:flex-start;
 }
